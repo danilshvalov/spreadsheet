@@ -1,0 +1,11 @@
+C:/Users/shval/source/repos/Table/build/CMakeFiles/spreadsheet.dir
+C:/Users/shval/source/repos/Table/build/CMakeFiles/PACKAGE.dir
+C:/Users/shval/source/repos/Table/build/CMakeFiles/INSTALL.dir
+C:/Users/shval/source/repos/Table/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/shval/source/repos/Table/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/CMakeFiles/PACKAGE.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/CMakeFiles/INSTALL.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/CMakeFiles/ALL_BUILD.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/runtime/CMakeFiles/PACKAGE.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/runtime/CMakeFiles/antlr4_static.dir
+C:/Users/shval/source/repos/Table/build/antlr4_runtime/runtime/CMakeFiles/INSTALL.dir

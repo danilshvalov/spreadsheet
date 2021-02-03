@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaLexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaBaseListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaListener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shval\source\repos\Table\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test-main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaLexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaBaseListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\build\antlr4cpp_generated_src\Formula\FormulaListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\formula.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shval\source\repos\Table\test_runner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shval\source\repos\Table\build\CMakeFiles\bd25cb680eb46167d7884782e9a6263d\FormulaLexer.interp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\shval\source\repos\Table\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D799BBE9-0322-395E-A521-BAAA891E5BDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FFEC52F0-CFDA-320D-A84C-75EA535C1825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2ED7921D-7D40-366A-9A56-786A295F0CC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
